@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of item, such as a game token, a roll of toilet paper, a pillow, etc.
+Name: The officially designated name of the item.
+Common Names: [Optional] Names and titles the item may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the item, such as "Law" and "Magic".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the item.
+
+# Appearance
+A description of the item's appearance and condition. This can also include the item's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the item's function and mechanics, how it is meant to be used, and any important or special effects it has. If the item is magical, this section should include details about the nature of that magic, how the magic works, the limitations of its magic, etc.
+
+# Plot Significance
+Contains information about how this item is important and relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this item.
+
+# History
+Contains information about the significant and impactful moments of this item throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the item is particularly powerful or renown.

@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of casting device, such as a wand, a staff, an alien artifact, etc.
+Name: The officially designated name of the casting device.
+Common Names: [Optional] Names and titles the casting device may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the casting device, such as "Divine" and "Cursed".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the casting device.
+
+# Appearance
+A description of the casting device's appearance and condition. This can also include the casting device's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the casting device's function and mechanics, how it is meant to be used, what sort of powers or limitations it has, and any important or special effects it has. Most casting devices are assumed to be magical, but there are cases where it is just replicating unknown technology. This section should offer insight into its magical or technological nature.
+
+# Plot Significance
+Contains information about how this casting device is important and relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this casting device.
+
+# History
+Contains information about the significant and impactful moments of this casting device throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the casting device is particularly powerful or renown.

@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of container, such as a vault, a weapons locker, a chest, a bookshelf, a food container, etc.
+Name: The officially designated name of the container.
+Common Names: [Optional] Names and titles the container may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the container, such as "Weapons" and "Magic".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the container.
+
+# Appearance
+A description of the container's appearance and condition. This can also include the container's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the container's function and mechanics, such as relating to storage, security measures against unwanted intrusion, etc. This section should describe what is unique about this container, how it is meant to be used, and any important or special effects it has. If the container is magical, this section should include details about the nature of that magic, how the magic works, the limitations of its magic, etc.
+
+# Plot Significance
+Contains information about how this container is important, unique, and/or relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this container.
+
+# History
+Contains information about the significant and impactful moments of this container throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the container is particularly powerful or renown.

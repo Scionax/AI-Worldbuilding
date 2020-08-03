@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of furniture, such as a desk, a bed, a dentist chair, etc.
+Name: The officially designated name of the furniture.
+Common Names: [Optional] Names and titles the furniture may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the furniture, such as "Royal" and "Magic".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the furniture.
+
+# Appearance
+A description of the furniture's appearance and condition. This can also include the furniture's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the furniture's function and mechanics, if any are applicable other than comfort. This section should describe what is unique about this furniture, how it is meant to be used, and any important or special effects it has. If the furniture is magical, this section should include details about the nature of that magic, how the magic works, the limitations of its magic, etc.
+
+# Plot Significance
+Contains information about how this furniture is important, unique, and/or relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this furniture.
+
+# History
+Contains information about the significant and impactful moments of this furniture throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the furniture is particularly powerful or renown.

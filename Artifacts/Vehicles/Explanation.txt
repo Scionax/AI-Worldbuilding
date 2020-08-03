@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of vehicle, such as a ship, a carriage, a steampunk blimp, etc.
+Name: The officially designated name of the vehicle.
+Common Names: [Optional] Names and titles the vehicle may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the vehicle, such as "Cargo" and "Magic".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the vehicle.
+
+# Appearance
+A description of the vehicle's appearance and condition. This can also include the vehicle's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the vehicle's function and mechanics, how it is meant to be used, and any important or special effects it has. If the vehicle is magical, this section should include details about the nature of that magic, how the magic works, the limitations of its magic, etc.
+
+# Plot Significance
+Contains information about how this vehicle is important and relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this vehicle.
+
+# History
+Contains information about the significant and impactful moments of this vehicle throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the vehicle is particularly powerful or renown.

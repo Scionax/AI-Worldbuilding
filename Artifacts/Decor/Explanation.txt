@@ -1,0 +1,19 @@
+
+# Details
+Type: The type of decor, such as a statue, a portrait, a decorative trimming, etc.
+Name: The officially designated name of the decor.
+Common Names: [Optional] Names and titles the decor may be known by other than its official name.
+Tags: Simple tags that help identify the nature of the decor, such as "Ancient" and "Supernatural".
+Perceived Value: A short description that indicates how inhabitants of the setting would value the decor.
+
+# Appearance
+A description of the decor's appearance and condition. This can also include the decor's original appearance, and how it has changed over time.
+
+# Mechanics
+Contains information about the decor's function and mechanics other than adding to aesthetics, and any important or special effects it has. If the decor is magical, this section should include details about the nature of that magic, how the magic works, the limitations of its magic, etc.
+
+# Plot Significance
+Contains information about how this decor is important and relevant to the setting, including details about how it affects those who use it, encounter it, etc. This section should describe conflicts that may result from the introduction, presence, or use of this decor.
+
+# History
+Contains information about the significant and impactful moments of this decor throughout history, including significant uses by its owners, transformations it has undergone, etc. It may include details about it's creator and the creation process if it is a particularly important story or if the decor is particularly powerful or renown.
